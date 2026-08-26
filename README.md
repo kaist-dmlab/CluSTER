@@ -24,9 +24,9 @@ This repository contains the official implementation of "<em>Clustering-Based Ba
 </p>
 
 **CluSTER** consists of three main components:
-1. Gradient-based semantic clustering: Training samples are organized according to lightweight gradient representations obtained from the target model.
-2. Cluster-aware balanced sampling and allocation: Samples are selected to preserve intra-cluster diversity and allocated across data-parallel workers to improve inter-cluster coverage within each synchronized update.
-3. Weighted gradient aggregation: Worker gradients are reweighted according to the original cluster distribution to account for non-uniform cluster sizes.
+1. **Gradient-based semantic clustering**: Training samples are organized according to lightweight gradient representations obtained from the target model.
+2. **Cluster-aware balanced sampling and allocation**: Samples are selected to preserve intra-cluster diversity and allocated across data-parallel workers to improve inter-cluster coverage within each synchronized update.
+3. **Weighted gradient aggregation**: Worker gradients are reweighted according to the original cluster distribution to account for non-uniform cluster sizes.
 
 ### Highlights
 - Data-efficient fine-tuning: Reduces redundant instruction data while preserving diverse training signals.
