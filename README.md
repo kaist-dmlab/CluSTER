@@ -1,5 +1,5 @@
 # Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning
-This repository contains the official implementation of "<em>Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning</em>," accepted at EMNLP 2026.
+This repository contains the official implementation of "<em>Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning</em>," accepted to EMNLP 2026.
 
 <p align="center">
     <a href="https://openreview.net/forum?id=????????"><img src="https://img.shields.io/badge/Paper-EMNLP'26-a55fed.svg?style=for-the-badge" alt="Paper" class="img-fluid"/></a>
