@@ -3,7 +3,7 @@ This repository contains the official implementation of "<em>Clustering-Based Ba
 
 <p align="center">
     <a href="https://openreview.net/forum?id=????????"><img src="https://img.shields.io/badge/Paper-EMNLP'26-a55fed.svg?style=for-the-badge" alt="Paper" class="img-fluid"/></a>
-    <a href="https://arxiv.org/abs/0000.00000"><img src="https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg?style=for-the-badge">
+    <a href="https://arxiv.org/abs/2609.12584"><img src="https://img.shields.io/badge/arXiv-2609.12584-b31b1b.svg?style=for-the-badge">
     <a href="https://opensource.org/license/apache/"><img src="https://img.shields.io/badge/License-Apache-blue.svg?style=for-the-badge">
 </p>
 
