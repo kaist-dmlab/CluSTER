@@ -102,16 +102,12 @@ These correspond to the selection settings `r = 1.00, 0.75, and 0.50` evaluated 
 ## 📝 Citation
 If you find our work useful, please cite:
 ```
-@inproceedings{kim-etal-2026-clustering,
+@inproceedings{kim2026clustering,
     title = "Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning",
     author = "Kim, Hyunjin  and Nam, Youngeun  and Han, Jaemin  and Choi, Wonhyeok  and Lee, Jae-Gil",
     booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
-    month = oct,
     year = "2026",
-    publisher = "Association for Computational Linguistics",
-    doi = "10.18653/2026.emnlp-main.342",
-    pages = "7885--7903",
-    ISBN = "979-8-89176-459-0"
+    doi = "10.18653/2026.emnlp-main.342"
 }
 ```
 
