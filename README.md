@@ -114,7 +114,7 @@ If you find our work useful, please cite:
 
 ## 🙏 Acknowledgements
 
-This implementation is built upon **PyTorch**, including its FullyShardedDataParallel (FSDP) modules, as well as **Hugging Face Transformers**, and **Accelerate**. We thank the authors of the publicly available models and instruction datasets used in our experiments, including **CodeLlama**, **Llama 2**, **Magicoder**, **Wizardcoder**, and **Alpacare**.
+This implementation is built upon **PyTorch**, including its FullyShardedDataParallel (FSDP) modules, as well as **Hugging Face Transformers**, and **Accelerate**. We thank the authors of the publicly available models and instruction datasets used in our experiments, including **CodeLlama**, **Llama 2**, **Magicoder**, **Wizardcoder**, and **Alpacare**. 
 
 ## License
 
